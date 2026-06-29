@@ -47,8 +47,8 @@ Theme D — Cost & Strategy Effectiveness
 Key Insights:
 Total emissions are driven mainly by company count per sector, not sector type. Average daily emissions per record are nearly identical across all 5 sectors (~32.2–32.5 tCO2e), even though Manufacturing has the highest total (more companies in that sector).
 Emission intensity (emissions per unit of output) is tightly clustered (0.0057–0.0062) across all companies, indicating emissions scale roughly linearly with production output rather than varying due to company-specific inefficiency.
-No strong seasonal pattern was found in monthly emissions across 2024 — month-over-month changes fluctuate without a sustained directional trend.
-Renewable Adoption is the standout strategy — it has both the lowest average implementation cost and the lowest average emissions among the four strategies, making it the strongest combination of cost and impact in this dataset, although the margin over other strategies is modest.
+No strong seasonal pattern was found in monthly emissions across 2024- month-over-month changes fluctuate without a sustained directional trend.
+Renewable Adoption is the standout strategy, it has both the lowest average implementation cost and the lowest average emissions among the four strategies, making it the strongest combination of cost and impact in this dataset, although the margin over other strategies is modest.
 
 SQL Concepts Demonstrated:
 Aggregation (GROUP BY, SUM, AVG, COUNT)
