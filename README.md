@@ -27,21 +27,21 @@ Date range- 2024-01-01 to 2024-12-30
 
 Analysis Themes & Questions:
 
-Theme A — Emission Footprint & Ranking
+Theme A- Emission Footprint & Ranking
 Which sector has the highest total and average daily emissions?
 Top 10 companies by total annual emissions
 Rank companies within their own sector by emissions (window function)
 
-Theme B — Energy Efficiency & Emission Intensity
-4. Emission intensity — tCO2e emitted per unit of production output
+Theme B- Energy Efficiency & Emission Intensity
+4. Emission intensity - tCO2e emitted per unit of production output
 5. Renewable energy adoption rate by sector
 6. Process efficiency banding vs. average emissions
 
-Theme C — Time Trends
+Theme C- Time Trends
 7. Monthly emission trend across the year
 8. Month-over-month % change in emissions (window function)
 
-Theme D — Cost & Strategy Effectiveness
+Theme D- Cost & Strategy Effectiveness
 9. Carbon reduction strategy adoption, average emissions, and implementation cost
 
 Key Insights:
