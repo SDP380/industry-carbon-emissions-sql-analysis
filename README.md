@@ -2,7 +2,7 @@
  Analyzing daily operational, energy, and emissions data across 50 companies and 5 industry sectors using Microsoft SQL Server to uncover emission drivers, strategy effectiveness, and efficiency patterns.
 
  Dataset:
-Source: Kaggle — Industry Carbon Emissions dataset
+Source: Kaggle(Industry Carbon Emissions dataset)
 Grain: One row per company, per day
 Size: 18,250 rows (50 companies x 365 days, full year 2024)
 Key fields: energy consumption (total/renewable/non-renewable), production output, supply chain transport, carbon emissions, energy & carbon tax costs, process efficiency, employment, ESG-style scores, and carbon reduction strategy adopted
