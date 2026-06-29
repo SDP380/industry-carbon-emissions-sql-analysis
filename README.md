@@ -12,10 +12,10 @@ Microsoft SQL Server (T-SQL)
 SSMS for query execution
 
 Project Workflow:
-Database & table setup — created a typed SQL Server table matching the dataset schema
-Data validation — checked row counts, duplicates, null values, and cross-column consistency
-Exploratory analysis — 10 SQL queries across 4 themes, using aggregation, window functions, conditional logic, and time-series comparison
-Insights documentation — summarized findings
+Database & table setup- created a typed SQL Server table matching the dataset schema
+Data validation- checked row counts, duplicates, null values, and cross-column consistency
+Exploratory analysis- 10 SQL queries across 4 themes, using aggregation, window functions, conditional logic, and time-series comparison
+Insights documentation- summarized findings
 
 Data Validation:
 Before analysis, the dataset was validated to confirm it was clean and reliable:
